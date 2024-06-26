@@ -1,0 +1,282 @@
+2024/06/26 13:58:59 [error] 27856#34664: *1 CreateFile() "G:\nginx-1.26.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/06/26 14:00:37 [notice] 21748#28048: using inherited sockets from "G:\nginx-1.26.1"
+2024/06/26 14:00:37 [emerg] 21748#28048: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:00:37 [emerg] 21748#28048: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring
+2024/06/26 14:00:37 [notice] 21748#28048: signal process started
+2024/06/26 14:00:55 [notice] 32988#29180: using inherited sockets from "G:\nginx-1.26.1"
+2024/06/26 14:00:55 [emerg] 32988#29180: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:00:55 [emerg] 32988#29180: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring
+2024/06/26 14:00:55 [notice] 32988#29180: signal process started
+2024/06/26 14:00:55 [error] 32988#29180: CreateFile() "G:\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/26 14:01:58 [notice] 24896#29664: using inherited sockets from "G:\nginx-1.26.1"
+2024/06/26 14:01:58 [emerg] 24896#29664: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:01:58 [emerg] 24896#29664: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring
+2024/06/26 14:01:58 [notice] 24896#29664: signal process started
+2024/06/26 14:01:58 [error] 24896#29664: CreateFile() "G:\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/26 14:03:11 [notice] 23580#12016: using inherited sockets from "G:\nginx-1.26.1"
+2024/06/26 14:03:11 [emerg] 23580#12016: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:03:11 [emerg] 23580#12016: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring
+2024/06/26 14:03:11 [notice] 23580#12016: signal process started
+2024/06/26 14:03:11 [error] 23580#12016: CreateFile() "G:\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/26 14:03:27 [notice] 24524#33780: using inherited sockets from "G:\nginx-1.26.1"
+2024/06/26 14:03:27 [emerg] 24524#33780: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:03:27 [emerg] 24524#33780: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring
+2024/06/26 14:03:27 [notice] 24524#33780: signal process started
+2024/06/26 14:03:27 [error] 24524#33780: CreateFile() "G:\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/26 14:03:50 [notice] 21648#24144: using inherited sockets from "G:\nginx-1.26.1"
+2024/06/26 14:03:50 [emerg] 21648#24144: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:03:50 [emerg] 21648#24144: invalid socket number "G:\nginx-1.26.1" in NGINX environment variable, ignoring
+2024/06/26 14:03:50 [notice] 21648#24144: signal process started
+2024/06/26 14:03:50 [error] 21648#24144: CreateFile() "G:\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/26 14:04:13 [notice] 29344#17300: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:04:13 [emerg] 29344#17300: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:04:13 [emerg] 29344#17300: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:04:13 [notice] 19004#36104: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:04:13 [emerg] 19004#36104: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:04:13 [emerg] 19004#36104: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:04:48 [notice] 22984#25304: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:04:48 [emerg] 22984#25304: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:04:48 [emerg] 22984#25304: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:04:48 [notice] 22984#25304: signal process started
+2024/06/26 14:08:22 [notice] 6712#8284: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:08:22 [emerg] 6712#8284: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:08:22 [emerg] 6712#8284: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:08:33 [notice] 7684#38504: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:08:33 [emerg] 7684#38504: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:08:33 [emerg] 7684#38504: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:37:13 [notice] 20208#23036: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:37:13 [emerg] 20208#23036: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:37:13 [emerg] 20208#23036: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:37:20 [notice] 35176#37544: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:37:20 [emerg] 35176#37544: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:37:20 [emerg] 35176#37544: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:37:20 [emerg] 35176#37544: cannot load certificate "G:
+ginx-1.26.1\conf\localhost.crt": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(G:
+ginx-1.26.1\conf\localhost.crt, r) error:10080002:BIO routines::system lib)
+2024/06/26 14:37:47 [notice] 36016#38476: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:37:47 [emerg] 36016#38476: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:37:47 [emerg] 36016#38476: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:38:04 [notice] 37604#20644: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:38:04 [emerg] 37604#20644: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:38:04 [emerg] 37604#20644: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:38:36 [notice] 17452#31604: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:38:36 [emerg] 17452#31604: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:38:36 [emerg] 17452#31604: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:38:36 [notice] 18544#24420: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:38:36 [emerg] 18544#24420: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:38:36 [emerg] 18544#24420: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:46:27 [notice] 25152#17672: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:46:27 [emerg] 25152#17672: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:46:27 [emerg] 25152#17672: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:46:38 [notice] 25912#8960: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:46:38 [emerg] 25912#8960: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:46:38 [emerg] 25912#8960: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 14:46:38 [notice] 28416#29412: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 14:46:38 [emerg] 28416#29412: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 14:46:38 [emerg] 28416#29412: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:05:17 [notice] 17080#1920: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:05:17 [emerg] 17080#1920: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:05:17 [emerg] 17080#1920: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:05:43 [notice] 31656#28772: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:05:43 [emerg] 31656#28772: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:05:43 [emerg] 31656#28772: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:05:43 [emerg] 31656#28772: host not found in upstream "authService:8095" in G:\nginx-1.26.1/conf/nginx.conf:5
+2024/06/26 15:08:20 [notice] 39544#28636: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:08:20 [emerg] 39544#28636: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:08:20 [emerg] 39544#28636: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:08:20 [notice] 39544#28636: signal process started
+2024/06/26 15:08:20 [notice] 20680#27384: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:08:20 [emerg] 20680#27384: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:08:20 [emerg] 20680#27384: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:08:35 [notice] 15332#26448: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:08:35 [emerg] 15332#26448: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:08:35 [emerg] 15332#26448: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:08:39 [notice] 33924#26244: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:08:39 [emerg] 33924#26244: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:08:39 [emerg] 33924#26244: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:08:39 [notice] 30068#26780: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:08:39 [emerg] 30068#26780: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:08:39 [emerg] 30068#26780: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:10:36 [error] 27856#34664: *14 CreateFile() "G:\nginx-1.26.1/html/authService/login" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /authService/login HTTP/1.1", host: "localhost"
+2024/06/26 15:10:53 [error] 27856#34664: *17 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:12:23 [error] 27856#34664: *18 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:12:46 [error] 27856#34664: *19 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:15:22 [notice] 36924#24800: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:15:22 [emerg] 36924#24800: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:15:22 [emerg] 36924#24800: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:15:22 [emerg] 36924#24800: unknown "authservice" variable
+2024/06/26 15:15:35 [notice] 30488#20964: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:15:35 [emerg] 30488#20964: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:15:35 [emerg] 30488#20964: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:15:39 [notice] 34824#38752: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:15:39 [emerg] 34824#38752: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:15:39 [emerg] 34824#38752: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:15:39 [notice] 18348#2112: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:15:39 [emerg] 18348#2112: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:15:39 [emerg] 18348#2112: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:16:16 [error] 27856#34664: *20 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:18:54 [notice] 24716#35372: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:18:54 [emerg] 24716#35372: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:18:54 [emerg] 24716#35372: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:18:54 [notice] 29748#19116: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:18:54 [emerg] 29748#19116: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:18:54 [emerg] 29748#19116: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:19:07 [error] 27856#34664: *21 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:19:40 [error] 27856#34664: *22 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:20:15 [error] 27856#34664: *23 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:20:33 [notice] 19924#20032: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:20:33 [emerg] 19924#20032: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:20:33 [emerg] 19924#20032: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:20:33 [notice] 25740#20292: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:20:33 [emerg] 25740#20292: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:20:33 [emerg] 25740#20292: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:20:40 [error] 27856#34664: *24 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:21:08 [error] 27856#34664: *25 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "HEAD /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:23:40 [notice] 22020#38388: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:23:40 [emerg] 22020#38388: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:23:40 [emerg] 22020#38388: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:23:40 [emerg] 22020#38388: invalid host in upstream "localhost:8095/authService" in G:\nginx-1.26.1/conf/nginx.conf:5
+2024/06/26 15:24:34 [notice] 35248#31264: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:24:34 [emerg] 35248#31264: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:24:34 [emerg] 35248#31264: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:24:34 [emerg] 35248#31264: invalid host in upstream "localhost:8090/weatherService" in G:\nginx-1.26.1/conf/nginx.conf:9
+2024/06/26 15:24:44 [notice] 16252#25540: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:24:44 [emerg] 16252#25540: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:24:44 [emerg] 16252#25540: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:24:44 [notice] 29448#8644: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:24:44 [emerg] 29448#8644: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:24:44 [emerg] 29448#8644: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:25:00 [error] 27856#34664: *26 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:28:35 [notice] 27736#21956: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:28:35 [emerg] 27736#21956: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:28:35 [emerg] 27736#21956: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:28:35 [emerg] 27736#21956: invalid URL prefix in G:\nginx-1.26.1/conf/nginx.conf:17
+2024/06/26 15:28:52 [error] 27856#34664: *27 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:30:13 [notice] 18956#20408: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:30:13 [emerg] 18956#20408: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:30:13 [emerg] 18956#20408: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:30:13 [emerg] 18956#20408: directive "server_name" is not terminated by ";" in G:\nginx-1.26.1/conf/nginx.conf:16
+2024/06/26 15:30:17 [error] 27856#34664: *28 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:30:18 [error] 27856#34664: *29 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:30:30 [notice] 30556#34768: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:30:30 [emerg] 30556#34768: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:30:30 [emerg] 30556#34768: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:30:30 [emerg] 30556#34768: directive "server_name" is not terminated by ";" in G:\nginx-1.26.1/conf/nginx.conf:16
+2024/06/26 15:30:42 [notice] 20652#21784: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:30:42 [emerg] 20652#21784: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:30:42 [emerg] 20652#21784: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:30:42 [emerg] 20652#21784: invalid URL prefix in G:\nginx-1.26.1/conf/nginx.conf:17
+2024/06/26 15:31:09 [notice] 9820#39052: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:31:09 [emerg] 9820#39052: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:31:09 [emerg] 9820#39052: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:31:09 [notice] 27256#35640: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:31:09 [emerg] 27256#35640: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:31:09 [emerg] 27256#35640: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:31:15 [error] 27856#34664: *30 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:17 [notice] 26448#39764: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:55:17 [emerg] 26448#39764: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:55:17 [emerg] 26448#39764: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:55:17 [notice] 35396#32048: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:55:17 [emerg] 35396#32048: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:55:17 [emerg] 35396#32048: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:55:24 [error] 27856#34664: *31 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:25 [error] 27856#34664: *32 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:25 [error] 27856#34664: *33 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:25 [error] 27856#34664: *34 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:26 [error] 27856#34664: *35 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:26 [error] 27856#34664: *36 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:26 [error] 27856#34664: *37 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:26 [error] 27856#34664: *38 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:26 [error] 27856#34664: *39 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 15:55:58 [notice] 18488#30724: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 15:55:58 [emerg] 18488#30724: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 15:55:58 [emerg] 18488#30724: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 15:55:58 [notice] 18488#30724: signal process started
+2024/06/26 16:01:40 [notice] 31084#33092: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:01:40 [emerg] 31084#33092: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:01:40 [emerg] 31084#33092: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:01:44 [notice] 8312#15500: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:01:44 [emerg] 8312#15500: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:01:44 [emerg] 8312#15500: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:01:44 [notice] 35624#18296: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:01:44 [emerg] 35624#18296: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:01:44 [emerg] 35624#18296: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:02:56 [notice] 25128#22332: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:02:56 [emerg] 25128#22332: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:02:56 [emerg] 25128#22332: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:02:56 [notice] 8492#18896: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:02:56 [emerg] 8492#18896: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:02:56 [emerg] 8492#18896: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:03:02 [error] 27856#34664: *45 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 16:03:38 [notice] 37832#36480: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:03:38 [emerg] 37832#36480: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:03:38 [emerg] 37832#36480: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:03:38 [notice] 31020#2788: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:03:38 [emerg] 31020#2788: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:03:38 [emerg] 31020#2788: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:03:45 [error] 27856#34664: *46 CreateFile() "G:\nginx-1.26.1/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost"
+2024/06/26 16:05:18 [notice] 37816#10984: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:05:18 [emerg] 37816#10984: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:05:18 [emerg] 37816#10984: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:05:18 [notice] 20236#33236: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:05:18 [emerg] 20236#33236: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:05:18 [emerg] 20236#33236: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:05:23 [error] 27856#34664: *49 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 16:08:25 [notice] 12656#33504: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:08:25 [emerg] 12656#33504: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:08:25 [emerg] 12656#33504: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:08:25 [notice] 12656#33504: signal process started
+2024/06/26 16:08:46 [notice] 39044#37892: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:08:46 [emerg] 39044#37892: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:08:46 [emerg] 39044#37892: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:08:46 [notice] 35868#17748: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:08:46 [emerg] 35868#17748: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:08:46 [emerg] 35868#17748: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:08:52 [error] 27856#34664: *50 CreateFile() "G:\nginx-1.26.1/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost"
+2024/06/26 16:10:32 [notice] 29048#25924: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:10:32 [emerg] 29048#25924: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:10:32 [emerg] 29048#25924: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:10:32 [notice] 17788#6324: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:10:32 [emerg] 17788#6324: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:10:32 [emerg] 17788#6324: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:10:58 [notice] 34292#21572: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:10:58 [emerg] 34292#21572: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:10:58 [emerg] 34292#21572: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:10:58 [notice] 34292#21572: signal process started
+2024/06/26 16:14:17 [notice] 26468#32920: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:14:17 [emerg] 26468#32920: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:14:17 [emerg] 26468#32920: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:14:17 [notice] 26468#32920: signal process started
+2024/06/26 16:14:17 [error] 26468#32920: CreateFile() "G:\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/26 16:14:27 [notice] 37364#440: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:14:27 [emerg] 37364#440: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:14:27 [emerg] 37364#440: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:14:27 [notice] 32364#39876: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:14:27 [emerg] 32364#39876: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:14:27 [emerg] 32364#39876: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:14:33 [error] 32364#21324: *1 CreateFile() "G:\nginx-1.26.1/localhost/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 16:16:15 [notice] 33992#33200: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:16:15 [emerg] 33992#33200: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:16:15 [emerg] 33992#33200: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:16:15 [notice] 22816#30420: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:16:15 [emerg] 22816#30420: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:16:15 [emerg] 22816#30420: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:16:19 [error] 22816#32580: *1 CreateFile() "G:\nginx-1.26.1/html/weatherService/countries/China" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weatherService/countries/China HTTP/1.1", host: "localhost"
+2024/06/26 16:16:43 [notice] 17680#34320: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:16:43 [emerg] 17680#34320: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:16:43 [emerg] 17680#34320: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:16:43 [notice] 29744#18292: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:16:43 [emerg] 29744#18292: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:16:43 [emerg] 29744#18292: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:32:43 [notice] 21124#34632: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:32:43 [emerg] 21124#34632: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:32:43 [emerg] 21124#34632: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:32:43 [notice] 24992#24384: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:32:43 [emerg] 24992#24384: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:32:43 [emerg] 24992#24384: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:33:12 [notice] 32196#10080: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:33:12 [emerg] 32196#10080: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:33:12 [emerg] 32196#10080: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/26 16:33:12 [notice] 35700#35048: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/26 16:33:12 [emerg] 35700#35048: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/26 16:33:12 [emerg] 35700#35048: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
