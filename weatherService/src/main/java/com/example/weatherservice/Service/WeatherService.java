@@ -72,7 +72,7 @@ public class WeatherService {
     }
     public boolean isUserAuthorized(String token) {
 
-        String url = "http://localhost:8095/authService/validate";
+        String url = "http://auth-container:8080/authService/validate";
         HttpHeaders headers = new HttpHeaders();
         headers.set("Authorization", token);
         HttpEntity<String> entity = new HttpEntity<>(headers);

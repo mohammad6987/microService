@@ -1,8 +1,8 @@
-FROM openjdk:19-jdk-alpaine
+FROM openjdk:19-jdk-alpine
 ARG JAR_FILE=target/*.jar
 
-COPY target/country-weather-service-0.0.1-SNAPSHOT.jar /app/country-weather-service.jar
+COPY target/weatherService-0.0.1.jar weather-service.jar
 
 
 # Run the JAR file
-ENTRYPOINT ["java", "-jar", "/app/country-weather-service.jar"]
+ENTRYPOINT ["java", "-jar", "weather-service.jar"]

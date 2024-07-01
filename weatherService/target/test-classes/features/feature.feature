@@ -54,4 +54,3 @@ Feature: all possible scenarios
     When Get request to "/weatherService/countries/Peru/" with token
       |Authorization | API eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJxIiwiZXhwIjoxODkzNTI5Nzk5fQ.xV4GszMvav82b2eDJYo3yLBuig8okOePinLWmmLBOlQyNWdKMyABbZyTBvfW23zDQ1UM07jyi-BHp3eEWZcNhw|
     Then the response status code should be 404
-    

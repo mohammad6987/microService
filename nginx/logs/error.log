@@ -280,3 +280,57 @@ ginx-1.26.1\conf\localhost.crt, r) error:10080002:BIO routines::system lib)
 2024/06/26 16:33:12 [notice] 35700#35048: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
 2024/06/26 16:33:12 [emerg] 35700#35048: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
 2024/06/26 16:33:12 [emerg] 35700#35048: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/27 22:46:56 [notice] 38624#36948: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/06/27 22:46:56 [emerg] 38624#36948: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/06/27 22:46:56 [emerg] 38624#36948: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/06/27 22:46:56 [emerg] 38624#36948: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:26:19 [notice] 6000#14824: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:26:19 [emerg] 6000#14824: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:26:19 [emerg] 6000#14824: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:26:19 [emerg] 6000#14824: host not found in upstream "auth-service:8080" in G:\microService\nginx/conf/nginx.conf:5
+2024/07/02 02:32:22 [notice] 6992#18176: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:32:22 [emerg] 6992#18176: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:32:22 [emerg] 6992#18176: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:32:22 [emerg] 6992#18176: host not found in upstream "auth-service:8080" in G:\microService\nginx/conf/nginx.conf:5
+2024/07/02 02:33:41 [notice] 17252#12860: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:33:41 [emerg] 17252#12860: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:33:41 [emerg] 17252#12860: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:33:41 [emerg] 17252#12860: host not found in upstream "auth-service" in G:\microService\nginx/conf/nginx.conf:17
+2024/07/02 02:35:17 [notice] 18344#18692: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:35:17 [emerg] 18344#18692: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:35:17 [emerg] 18344#18692: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:35:17 [emerg] 18344#18692: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:36:19 [notice] 12800#16348: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:36:19 [emerg] 12800#16348: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:36:19 [emerg] 12800#16348: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:36:19 [emerg] 12800#16348: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:37:35 [notice] 17740#13380: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:37:35 [emerg] 17740#13380: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:37:35 [emerg] 17740#13380: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:37:35 [emerg] 17740#13380: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:38:31 [notice] 13652#7164: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:38:31 [emerg] 13652#7164: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:38:31 [emerg] 13652#7164: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:38:31 [notice] 13652#7164: signal process started
+2024/07/02 02:38:31 [error] 13652#7164: OpenEvent("Global\ngx_quit_32196") failed (2: The system cannot find the file specified)
+2024/07/02 02:38:51 [notice] 17724#16476: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:38:51 [emerg] 17724#16476: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:38:51 [emerg] 17724#16476: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:38:51 [emerg] 17724#16476: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:39:17 [notice] 17388#18196: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:39:17 [emerg] 17388#18196: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:39:17 [emerg] 17388#18196: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:39:17 [notice] 17388#18196: signal process started
+2024/07/02 02:39:17 [error] 17388#18196: OpenEvent("Global\ngx_quit_32196") failed (2: The system cannot find the file specified)
+2024/07/02 02:39:34 [notice] 18784#13692: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:39:34 [emerg] 18784#13692: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:39:34 [emerg] 18784#13692: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:39:34 [emerg] 18784#13692: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:39:36 [notice] 6244#16556: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:39:36 [emerg] 6244#16556: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:39:36 [emerg] 6244#16556: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:39:36 [emerg] 6244#16556: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/07/02 02:41:30 [notice] 7656#13676: using inherited sockets from "G:\nginx-1.26.1\nginx.exe"
+2024/07/02 02:41:30 [emerg] 7656#13676: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2024/07/02 02:41:30 [emerg] 7656#13676: invalid socket number "G:\nginx-1.26.1\nginx.exe" in NGINX environment variable, ignoring
+2024/07/02 02:41:30 [emerg] 7656#13676: CreateDirectory() "G:\microService\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
