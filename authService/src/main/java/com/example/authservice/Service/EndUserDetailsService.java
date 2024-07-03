@@ -114,7 +114,7 @@ public class EndUserDetailsService {
             initToken.setTokenValue(tokenManger.generateToken(endUser.getUsername() , initToken.getExpireDate()));
             tokenRepository.save(initToken);
             return (
-                    "token = "+initToken.getTokenValue());
+                    initToken.getTokenValue());
 
         }else {
             throw new UsernameNotFoundException("username and password doesn't match!");

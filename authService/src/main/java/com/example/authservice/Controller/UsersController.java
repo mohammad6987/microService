@@ -103,7 +103,7 @@ public class UsersController {
     }
     @GetMapping("/validate")
     public ResponseEntity<Boolean> validateToken(@AuthenticationPrincipal EndUser endUser) {
-        return ResponseEntity.status(HttpStatusCode.valueOf(200)).body(Boolean.TRUE);
+        return ResponseEntity.status(HttpStatusCode.valueOf(200)).body(endUser.isAuthorized());
     }
 
 }
