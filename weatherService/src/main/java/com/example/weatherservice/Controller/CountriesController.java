@@ -44,9 +44,10 @@ public class CountriesController {
 
     @GetMapping("/countries/{name}")
     @Cacheable(value = "countries", key = "#name")
-    public Optional<CountryDtoForSearch> getCountryByName(@RequestHeader("Authorization") String token,@PathVariable String name) throws UnAuthorizedAccess, CountryNotFoundException {
+    public Optional<CountryDtoForSearch> getCountryByName(@RequestHeader("Authorization") String token
+            ,@PathVariable String name) throws UnAuthorizedAccess, CountryNotFoundException {
         if(!weatherService.isUserAuthorized(token)){
-            throw new UnAuthorizedAccess("there is an error with your token!");
+            throw new UnAuthorizedAccess("Your account isn't activated!");
         }else{
             CountryDtoForSearch countryDtoForSearch = weatherService.findByName(name);
             if (countryDtoForSearch.getName() != null) {
